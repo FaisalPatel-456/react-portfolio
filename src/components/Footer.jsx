@@ -52,7 +52,7 @@ const Footer = () => {
     ]
 
     return (
-        <div className='w-full pt-10 bg-black text-white'>
+        <div className='w-full py-10 bg-black text-white'>
 
             <div className=' max-w-screen-lg p-4 mx-auto flex flex-col justify-center items-center w-full'>
 
@@ -73,6 +73,7 @@ const Footer = () => {
                 </div>
 
             </div>
+
         </div>
     )
 }
